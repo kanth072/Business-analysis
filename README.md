@@ -18,3 +18,11 @@ The project follows a structured **14-day, 5-phase analytics workflow**, alignin
 ---
 
 ## 🗂️ Repository Structure
+customer-churn-analysis/
+│
+├── churn_analysis.ipynb
+├── customer_churn.csv
+├── statistical_report.txt
+├── hypothesis_tests_results.txt
+├── requirements.txt
+└── README.md
